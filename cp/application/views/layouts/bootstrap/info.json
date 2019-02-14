@@ -1,0 +1,10 @@
+{
+	"name"		:"Bootstrap",
+	"folder"	:"bootstrap",
+	"author"	:"Mango TM",
+	"template"	:{
+					"Default Page"		: "page",
+					"Full Page"			: "fullpage",
+					"Backend Template"	: "backend"
+				}
+}
